@@ -1,0 +1,55 @@
+.pliusai{
+    display: flex;
+    background: rgba(241, 241, 241, 0.358);
+    color: black;
+    text-align: center;
+    justify-content: center;
+    height: 600px;
+    flex-wrap: wrap;
+    position: relative;
+    
+   
+}
+
+.pliusai .inner{
+    padding-bottom: 30px;
+    padding-top: 120px;
+}
+
+.pliusai p{
+    font-size: 1.6em;
+    font-weight: 50;
+}
+
+.responsive{
+    width: 350px;
+    padding: 80px;
+    
+}
+
+.ready{
+    width: 350px;
+    padding: 80px;
+}
+
+.easy{
+    width: 350px;
+    padding: 80px;
+}
+
+
+.la-desktop{
+  color: #307bff;
+  font-size: 100px;
+}
+
+.la-layer-group{
+  color: #307bff;
+  font-size: 100px;
+}
+
+.la-check-circle{
+  color: #307bff;
+  font-size: 100px;
+}
+

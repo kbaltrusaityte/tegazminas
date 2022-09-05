@@ -1,0 +1,35 @@
+footer {
+    height: 150px;
+    background: white;
+    align-items: center;
+    justify-content: space-between;
+}
+.content{
+    display: flex;
+   align-items: center;
+    justify-content: space-between;
+    margin: 80px 230px;
+} 
+.about{
+    display: flex;
+    color: #307bff ;
+   font-size: 1.2em;
+   word-spacing: 20px;
+ 
+} 
+.rights{
+    color: grey;
+    font-size: 1em;
+    font-weight: 100; 
+    margin-top: 10px;
+}
+
+.social{
+    color: #307bff;
+    font-size: 40px;
+
+
+}
+.fa{
+    padding: 17px;
+}

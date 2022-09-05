@@ -1,0 +1,220 @@
+@media (max-width: 1000px){
+    article {
+        width: 50% !important;
+    }
+}
+
+
+ 
+@media (max-width: 600px){
+    article{
+        width: 100% !important;
+    }
+
+    header{
+        
+        width: 100% !important;
+        height: 100vh !important;
+        position: relative;
+        
+    }
+
+     header .content h2{
+      font-size: 2.6em;
+    }
+
+    header .content{
+      width: 80%;
+    }
+
+    header .content-bottom {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    header .content-bottom p {
+        width: 100%;
+    }
+
+    header button {
+      width: 360px;
+      margin-left: 0px;
+    }
+
+    .search-wrapper input{
+      width: 280px;
+    }
+
+    .top{
+      position: relative;
+      padding: 0px 20px;
+      
+    }
+    
+    .top button{
+      margin: 40px;
+    }
+
+    .pliusai{
+      height: 200vh !important;
+      position: relative;
+      
+    }
+
+   .responsive{
+    width: 300px;
+    height: 20vh;
+   
+   }
+
+   .ready{
+    width: 300px;
+    height: 20vh;
+   }
+
+   .easy{
+   width: 300px;
+    height: 20vh;
+  }
+
+    .testimonials{
+      height: 240vh;
+      padding: 0;
+    }
+
+
+
+    .footer {
+    
+      height: 150px;
+      background: white;
+      text-align: center;
+     
+  }
+  .content{
+      display: inline;
+     justify-content: center;
+      margin: 80px 230px;
+      align-items: center;
+      text-align: center;
+      padding-top: 7px;
+  } 
+  .about{
+      
+      color: #307bff ;
+     font-size: 1.2em;
+     word-spacing: 17px;
+     display: inline;
+
+  } 
+ 
+
+}
+
+
+
+
+
+@media (max-width: 900px){
+  article{
+    width: 100% !important;
+}
+
+header{
+    
+    width: 100% !important;
+    height: 100vh !important;
+    position: relative;
+    
+}
+
+ header .content h2{
+  font-size: 2.6em;
+}
+
+header .content{
+  width: 80%;
+}
+
+header .content-bottom {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header .content-bottom p {
+    width: 100%;
+}
+
+header button {
+  width: 360px;
+  margin-left: 0px;
+}
+
+.search-wrapper input{
+  width: 280px;
+}
+
+.top{
+  position: relative;
+  padding: 0px 20px;
+  
+}
+
+.top button{
+  margin: 40px;
+}
+
+.pliusai{
+  height: 200vh !important;
+  position: relative;
+  
+}
+
+.responsive{
+width: 300px;
+height: 20vh;
+
+}
+
+.ready{
+width: 300px;
+height: 20vh;
+}
+
+.easy{
+width: 300px;
+height: 20vh;
+}
+
+.testimonials{
+  height: 240vh;
+  padding: 0;
+}
+
+
+.footer {
+    
+  height: 150px;
+  background: white;
+  text-align: center;
+ 
+}
+.content{
+  display: inline;
+ justify-content: center;
+  margin: 80px 230px;
+  align-items: center;
+  text-align: center;
+  padding-top: 7px;
+} 
+.about{
+  
+  color: #307bff ;
+ font-size: 1.2em;
+ word-spacing: 17px;
+ display: inline;
+
+} 
+}

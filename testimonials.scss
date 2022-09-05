@@ -1,0 +1,44 @@
+.testimonials{
+    padding: 40px 0;
+    background: rgba(241, 241, 241, 0.358);
+    color: black;
+    text-align: center;
+    height: 600px;
+}
+
+.inner{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    font-size: 1.2em;
+    padding-top: 100px;
+}
+
+.row{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+} 
+
+
+.testimonial{
+    padding: 60px;
+}
+
+.testimonial img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px 0px black;
+}
+
+.name{
+    font-size: 25px;
+    margin: 20px 0;
+}
+
+.testimonial p{
+    font-size: 20px;
+    font-weight: 30;
+}
